@@ -34,7 +34,7 @@ O projeto foi construído utilizando as seguintes tecnologias:
 
 Confira o resultado final acessando o link de deploy acima ou veja a prévia abaixo:
 
-![Preview do Projeto](./preview.png)
+![Preview do Projeto](<img width="1893" height="915" alt="preview png" src="https://github.com/user-attachments/assets/782bb0a4-4c0d-48c5-a3d2-4a8f42b23c8a" />)
 
 ---
 
